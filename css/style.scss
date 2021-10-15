@@ -1,8 +1,10 @@
 $white: #ffffff;
-$green1:#0caa7d;
-$green2:#0ca57a;
+// $green1:#0caa7d; orignial
+$green1:#0c53a5 !important;
+$green2:#0c53a5;
 $red:#fb1004;
 $black:#000000;
+$primarycolor:#0c4baa;
 
 
 
@@ -336,7 +338,6 @@ a:focus {
 .custom_menu-container {
   background-color: $green1;
 
-
   .custom_menu {
     display: flex;
     justify-content: space-between;
@@ -600,7 +601,7 @@ a:focus {
 
 // contact section
 .contact_section {
-  background-color: #0ca57a;
+  background-color: $primarycolor;
   color: #fff;
   background-size: cover;
   background-repeat: no-repeat;

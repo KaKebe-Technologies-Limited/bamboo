@@ -1,3 +1,5 @@
+
+
 body {
   font-family: 'Poppins', sans-serif;
   color: #101010;
@@ -270,7 +272,8 @@ a:focus {
 }
 
 .custom_menu-container {
-  background-color: #0caa7d;
+  /* background-color: #0caa7d; */
+  background-color: #0c4baa;
 }
 
 .custom_menu-container .custom_menu {
@@ -364,7 +367,7 @@ a:focus {
 }
 
 .do_section .content-box.bg-green {
-  background-color: #0ca57a;
+  background-color: #0c4baa;
 }
 
 .skill_section {
@@ -499,7 +502,7 @@ a:focus {
 
 .client_section .client_box .client-id .name h5 {
   text-transform: uppercase;
-  color: #0caa7d;
+  color: green;
   font-weight: bold;
 }
 
@@ -525,7 +528,7 @@ a:focus {
 }
 
 .contact_section {
-  background-color: #0ca57a;
+  background-color: #0c4baa; 
   color: #fff;
   background-size: cover;
   background-repeat: no-repeat;
@@ -646,7 +649,7 @@ a:focus {
 }
 
 .info_form button {
-  background-color: #0caa7d;
+  background-color: #0c4baa;
   padding: 8px 35px;
   outline: none;
   border: none;
